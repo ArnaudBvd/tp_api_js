@@ -1,0 +1,13 @@
+header nav {
+    border-bottom: 2px solid #01d758;
+}
+
+a {
+    text-decoration: none;
+    color: #01d758;
+    font-weight: bold;
+}
+
+th, td {
+    border-bottom: 1px solid #dcdcdc;
+}
