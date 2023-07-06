@@ -11,3 +11,23 @@ a {
 th, td {
     border-bottom: 1px solid #dcdcdc;
 }
+
+#box-letter {
+    background-color: grey;
+    padding: 35px 25px;
+    border-radius: 5px;
+}
+
+input {
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    padding: 5px 10px;
+}
+
+#btn-submit {
+    background-color: #01d758;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 10px;
+}
